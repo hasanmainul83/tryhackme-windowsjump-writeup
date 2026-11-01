@@ -32,8 +32,4 @@ A detailed, step-by-step walkthrough of the TryHackMe WindowsJump room, covering
 - **[WindowsJump.md](WindowsJump.md)** – Complete walkthrough with commands and explanations.
 - **[images/](images/)** – Screenshots documenting the exploitation steps in sequence.
 
-### Walkthrough
-
-[Read the complete WindowsJump walkthrough](WindowsJump.md)
-
 **All four flags successfully retrieved.**
