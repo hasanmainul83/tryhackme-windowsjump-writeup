@@ -1,0 +1,1 @@
+# tryhackme-windowsjump-writeup
